@@ -1,0 +1,16 @@
+{
+    "display": {
+        "title": "いざ鉱石探査！",
+        "description": "Ore Searcherを作成する",
+        "icon": {
+            "item": "minecraft:carrot_on_a_stick",
+            "nbt": "{CustomModelData:745011}"
+        }
+    },
+    "parent": "a_nasuko_ct:core/make_fairytech",
+    "criteria": {
+        "test": {
+            "trigger": "impossible"
+        }
+    }
+}
