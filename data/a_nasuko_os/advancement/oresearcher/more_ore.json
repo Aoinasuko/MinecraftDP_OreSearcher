@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": "鉱石の探求者",
+        "description": "Ore Searcherで合計10分間鉱石を探知する",
+        "icon": {
+            "id": "minecraft:carrot_on_a_stick",
+            "components": {
+                "minecraft:custom_model_data": {
+                    "floats": [
+                        745001
+                    ]
+                }
+            }
+        },
+        "frame": "challenge"
+    },
+    "parent": "a_nasuko_os:oresearcher/root",
+    "criteria": {
+        "test": {
+            "trigger": "impossible"
+        }
+    }
+}

@@ -4,7 +4,7 @@
 ＝＝＝＝＝＝＝注意＝＝＝＝＝＝＝＝＝＝＝
 このデータパックではカスタムモデルを使用します。
 別配布のB.E.P Fairy Tech ResourcePackの導入を行わないと追加アイテムのグラフィックが表示されないためご注意ください。
-https://aoi-nasuko.hateblo.jp/entry/BEPFairyTech_ResourcePack
+https://github.com/Aoinasuko/MinecraftRP_B.E.P_Fairy_Tech_ResourcePack
 
 ＝＝＝＝＝＝＝追加アイテム＝＝＝＝＝＝＝
 ・*Ore Searcher*
@@ -32,7 +32,7 @@ XXXCDCXXX
 XXXXEXXXX
 
 ＝＝＝＝＝＝＝おまけ＝＝＝＝＝＝＝＝＝＝
-進捗を２つ追加します。
+進捗を2つ追加します。
 
 ＝＝＝＝＝＝＝アップデート＝＝＝＝＝＝＝
 2023/08/21
@@ -41,9 +41,12 @@ XXXXEXXXX
 2023/08/22
 データパックを全体的に軽量化
 
-2023/08/23
+2023/08/23(1.0.0)
 探知範囲を改善、新しい進捗を１つ追加
 進捗用のスコアを追加したためa_nasuko_os:installの再実行が必要です
+
+2025/02/21(1.1.0)
+MC1.21.4に対応
 
 ＝＝＝＝＝＝＝作者＝＝＝＝＝＝＝＝＝＝＝
 Aoi_nasuko
