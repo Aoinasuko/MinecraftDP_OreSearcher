@@ -48,6 +48,9 @@ XXXXEXXXX
 2025/02/21(1.1.0)
 MC1.21.4に対応
 
+2025/02/21(1.1.1)
+実績のアイコンがおかしかった不具合を修正
+
 ＝＝＝＝＝＝＝作者＝＝＝＝＝＝＝＝＝＝＝
 Aoi_nasuko
 Twitter：https://twitter.com/aoi_nasuko

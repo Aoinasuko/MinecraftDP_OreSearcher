@@ -6,8 +6,8 @@
             "id": "minecraft:carrot_on_a_stick",
             "components": {
                 "minecraft:custom_model_data": {
-                    "floats": [
-                        745001
+                    "strings": [
+                        "bep_oresearcher"
                     ]
                 }
             }
